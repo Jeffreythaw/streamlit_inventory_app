@@ -1,0 +1,14 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore SQLite database file
+data/*.db
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore macOS system files
+.DS_Store
